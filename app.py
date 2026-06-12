@@ -19,7 +19,7 @@ str.markdown(
 str.set_page_config(page_title="Electrical Measurement App", page_icon="⚡", layout="wide")
 # ส่วนหัวของเว็บไซต์
 str.title("⚡ เว็บไซต์แอปพลิเคชันการวัดไฟฟ้า (Electrical Measurement)")
-str.subheader("จัดทำส่งอาจารย์ | พัฒนาด้วย Python & Streamlit")
+str.subheader("พัฒนาด้วย Python & Streamlit")
 str.write("---")
 
 # แถบเมนูด้านข้าง (Sidebar) สำหรับตัวเลือกที่หลากหลาย
